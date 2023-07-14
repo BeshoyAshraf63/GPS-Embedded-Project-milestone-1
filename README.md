@@ -18,10 +18,10 @@ This wasn't possible without interrupts because any delays in the code would del
 ## Actual distances used in the code from Google maps
 
 The points in the code are hard coded and these are the points from google maps with the actual distance
-![distance 1 = 70 m](https://drive.google.com/uc?export=view&id=1fX6pj1rbF3kSjeLXN-UF39tad5kuO_Ze)
-This distance = 70 m displayed as 71 m
-![distance 2 = 150 m](https://drive.google.com/uc?export=view&id=1SXyK8B0Fn1jJiQevjKttXPJ_zPpqPyif)
-This distance = 150 m displayed as 153 m
+![distance 1 = 70 m](https://drive.google.com/uc?export=view&id=1fX6pj1rbF3kSjeLXN-UF39tad5kuO_Ze) \
+This distance = 70 m displayed as 71 m\
+![distance 2 = 150 m](https://drive.google.com/uc?export=view&id=1SXyK8B0Fn1jJiQevjKttXPJ_zPpqPyif) \
+This distance = 150 m displayed as 153 m\
 
 this small error is of course due to these points are selection of the points on google maps
 
